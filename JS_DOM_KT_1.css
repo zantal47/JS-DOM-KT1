@@ -1,0 +1,21 @@
+.table_style {
+    border: solid;
+    border-width: 1px;
+    border-color: blue;
+    border-collapse: collapse;
+}
+
+.main_div {
+    position: absolute;
+    top: 25%;
+    left: 40%;
+}
+
+td, th {
+    padding: 20px;
+}
+
+.button {
+    position: absolute;
+    left: 33.5%;
+}
